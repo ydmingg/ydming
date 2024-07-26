@@ -6,7 +6,7 @@ I'm from China 🇨🇳
 
 **About me**
 
-- 💼 FrontEnd Engineer at [Razorpay](http://ydming.com/)
+- 💼 FrontEnd Engineer at [ydming](https://www.ydming.com/)
 
 - ❤️ I love writing TypeScript, and building fun experiments on type-level
 
