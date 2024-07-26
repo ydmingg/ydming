@@ -2,7 +2,7 @@
 
 <br/>
 
-I'm from China 🇨🇳
+I'm from China
 
 **About me**
 
