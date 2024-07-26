@@ -8,7 +8,7 @@ I'm from China 🇨🇳
 
 - 💼 FrontEnd Engineer at [ydming](https://www.ydming.com/)
 
-- ❤️ I love writing javascript and TypeScript, and building fun experiments on type-level
+- ❤️ I love writing JavaScript and TypeScript, and building fun experiments on type-level
 
 <br/>
 
