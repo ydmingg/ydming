@@ -18,5 +18,6 @@ I'm from China 🇨🇳
 <code><img height="20" alt="graphql" src="./images/apps/graphql.png"></code>
 <code><img height="20" alt="nodejs" src="./images/apps/nodejs.png"></code>    
 
-| <a href="https://github.com/ydmingg"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ydmingg&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/ydmingg"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ydmingg&layout=compact&theme=buefy&hide_border=true" /></a> |
+
+| <a href="https://github.com/ydmingg"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ydmingg&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="ydming's github stats" /></a> | <a href="https://github.com/ydmingg"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ydmingg&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
