@@ -19,5 +19,5 @@ I'm from China
 <code><img height="20" alt="nodejs" src="./images/apps/nodejs.png"></code>    
 
 
-| <a href="https://github.com/ydmingg"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ydmingg&show_icons=true&count_private=true&theme=transparent&locale=cn&bg_color=45,%22%20alt=%22sjzyQwQ%27s%20GitHub%20stats" /></a> | <a href="https://github.com/ydmingg"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ydmingg&layout=compact&show_icons=true&count_private=true&locale=cn&bg_color=45" /></a> |
+| <a href="https://github.com/ydmingg"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ydmingg&show_icons=true" /></a> | <a href="https://github.com/ydmingg"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ydmingg&layout=compact" /></a> |
 | ------------- | ------------- |
