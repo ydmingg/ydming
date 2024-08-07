@@ -2,9 +2,9 @@
 
 <br/>
 
-I'm from China
+I'm From China
 
-**About me**
+**About Me**
 
 - 💼 FrontEnd Engineer at [ydming](https://www.ydming.com/)
 
